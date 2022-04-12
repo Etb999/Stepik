@@ -4,6 +4,7 @@ public class DoubleCompare {
         boolean anwser;
 
         anwser = Math.abs((a+b)-c) < 0.0001;
+
         return anwser;
     }
 }
